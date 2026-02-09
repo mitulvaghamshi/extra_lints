@@ -1,0 +1,3 @@
+include:
+  - package:lints/recommended.yaml
+  - package:extra_lints/extra.yaml

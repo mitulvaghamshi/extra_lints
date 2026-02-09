@@ -1,0 +1,5 @@
+# For flutter projects:
+include: package:extra_lints/flutter.yaml
+
+# For dart projects:
+# include: package:extra_lints/dart.yaml

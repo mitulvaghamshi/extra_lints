@@ -1,0 +1,11 @@
+name: extra_lints
+description: Analysis options for Flutter and Dart projects.
+repository: https://github.com/mitulvaghamshi/extra_lints
+version: 0.0.1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  lints: ^6.1.0
+  flutter_lints: ^6.0.0
